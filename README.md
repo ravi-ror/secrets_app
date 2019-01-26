@@ -7,7 +7,7 @@ Rails environment needed:
 ruby 2.5.1
 rails 5.2.2
 
-1. bundle install
+1. bundle install and no configuration required for database. sqlite3 database is used for this application
 
 2. rake application:setup 
 
