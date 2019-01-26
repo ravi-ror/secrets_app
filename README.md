@@ -7,8 +7,6 @@ Rails environment needed:
 ruby 2.5.1
 rails 5.2.2
 
-Go to demo_app  
-
 1. bundle install
 
 2. rake application:setup 
